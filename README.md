@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Guilherme Roecker | Desenvolvedor de Software
 
 Bem-vindo ao meu portfólio!
